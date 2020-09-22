@@ -1,0 +1,25 @@
+header{
+    color: yellow;
+}
+
+#first-paragraph{
+    font-size: 16px;
+    color: rebeccapurple;
+    background-color: lightpink;
+    padding: 15px;
+}
+
+.basic-steps{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30 px;
+    color: green;
+}
+
+li p a{
+    color:red;
+    font-weight: bold;
+    text-decoration: none;
+}
+.basic-steps span{
+    color: orange!important;
+}
